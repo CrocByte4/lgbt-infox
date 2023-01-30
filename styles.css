@@ -1,14 +1,20 @@
+body {
+  background-color: coral;
+}
+
 header {
   background: linear-gradient(
     120deg,
-    red 15%,
+    red 10%,
     orange 30%,
-    yellow 40%,
-    green 50%,
-    blue 60%,
-    indigo 70%,
-    violet 80
+    yellow 45%,
+    green 60%,
+    blue 70%,
+    indigo 80%,
+    violet 92%,
+    deeppink 95%
   );
-  font-style: normal;
+  text-align: center;
+  font-style: bolder;
   font-family: monospace;
 }
