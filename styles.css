@@ -1,0 +1,14 @@
+header {
+  background: linear-gradient(
+    120deg,
+    red 15%,
+    orange 30%,
+    yellow 40%,
+    green 50%,
+    blue 60%,
+    indigo 70%,
+    violet 80
+  );
+  font-style: normal;
+  font-family: monospace;
+}
